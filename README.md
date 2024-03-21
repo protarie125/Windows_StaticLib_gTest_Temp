@@ -1,1 +1,3 @@
-# Windows_StaticLib_gTest_Temp
+# Windows StaticLib gTest Template
+
+gTest for VS2022 + static lib, template project
