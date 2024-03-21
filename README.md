@@ -1,0 +1,1 @@
+# Windows_StaticLib_gTest_Temp
